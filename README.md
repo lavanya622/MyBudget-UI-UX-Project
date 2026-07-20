@@ -108,14 +108,14 @@ The project includes the following screens:
 
 ## 🖼️ Design Preview
 
-### Sign Up ![Sign Up](Screenshots/01-Signup.png)
-### Login ![Login](Screenshots/02-Login.png) 
-### Forgot Password ![Forgot Password](Screenshots/03-Forgot-Password.png) 
-### Home / Dashboard ![Home](Screenshots/04-Home.png) 
-### Add Transaction ![Add Transaction](Screenshots/05-Add-Transaction.png) 
-### Budget ![Budget](Screenshots/06-Budget.png) 
-### Insights ![Insights](Screenshots/07-Insights.png) 
-### Profile ![Profile](Screenshots/08-Profile.png) 
+### Sign Up Page
+### Login Page
+### Forgot Password Page
+### Home / Dashboard Page
+### Add Transaction Page
+### Budget Page
+### Insights Page
+### Profile Page
 ---
 
 ## 🔗 Figma Prototype
